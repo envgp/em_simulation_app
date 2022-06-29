@@ -1,2 +1,4 @@
 voila
 ipywidgets
+cython
+git+https://github.com/simpeg/simpeg.git@em1d_stitched
